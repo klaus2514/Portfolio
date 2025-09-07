@@ -16,7 +16,7 @@ const Hero = () => {
         {/* Action Buttons */}
         <div className="mt-8 flex flex-wrap gap-4 justify-center">
           <a href="#projects" className="px-8 py-3 font-semibold text-white bg-sky-600 hover:bg-sky-700 rounded-lg transition-transform hover:scale-105">View My Work</a>
-          <a href="/resume.pdf" target="_blank" className="px-8 py-3 font-semibold text-white bg-zinc-800 border border-zinc-700 hover:bg-zinc-700 rounded-lg transition-transform hover:scale-105">View Resume</a>
+          <a href="/MsUpdated.pdf" target="_blank" className="px-8 py-3 font-semibold text-white bg-zinc-800 border border-zinc-700 hover:bg-zinc-700 rounded-lg transition-transform hover:scale-105">View Resume</a>
         </div>
 
         {/* Social Media Links - MOVED INSIDE the main div */}
